@@ -1,4 +1,5 @@
-/*Jordan Ross
+/*
+ * Jordan Ross
  * February 11, 2019
  * Area Calculator
  */
